@@ -12,8 +12,8 @@
 
 I'm a psychology student who loves to combine my knowledge of psychology with programming, electronics, and digital art! I don't want to be just a psychology student; I also want to be an engineer, a programmer, and a designer. I would love to build electronics and websites for psychology-related issues. So why not combine them all to create an interdisciplinary field that doesn't have a name yet?
 
-🌱 &nbsp;I'm currently learning **Electron &amp; Raspberry Pi**  
-👯 &nbsp;I'm looking to collaborate on **Programming/Electronics projects that are meant to help with psychology-related issues. Developing an app to help with procrastination? Building electronics that enhance student's working memory? Sign me up :D**
+&nbsp;I'm currently learning **Electron &amp; Raspberry Pi**  
+&nbsp;I'm looking to collaborate on **Programming/Electronics projects that are meant to help with psychology-related issues. Developing an app to help with procrastination? Building electronics that enhance student's working memory? Sign me up :D**
 
 ### ✦•┈๑⋅⋯ ✿ Tech Stack ✿ ⋯⋅๑┈•✦
 
