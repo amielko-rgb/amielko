@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/amielko">
+  <a href="https://github.com/amielko-rgb">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=826&text=print(%22Hi%2C%20I'm%20Allie!%22)" alt="print(&quot;Hi, I&#39;m Allie!&quot;)" />
   </a>
 </p>
@@ -37,4 +37,4 @@ I'm a psychology student who loves to combine my knowledge of psychology with pr
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/amielko">amielko</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/amielko-rgb">amielko</a></i></p>
